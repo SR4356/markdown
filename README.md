@@ -45,11 +45,11 @@
    
    
    **Table**
-   |Name|Branch|College|
-   |-----|------|------|
-   |hghuh|jhddrg|jghjgj|
-   |gjjgj|utftdf|gjgjgj|
-   |hkkgy|hkjhggj|jghgh|
+   Name|Branch|College
+   -----|------|------
+   hghuh|jhddrg|jghjgj
+   gjjgj|utftdf|gjgjgj
+   hkkgy|hkjhggj|jghgh
    
    **code**
    ```
